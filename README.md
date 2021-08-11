@@ -1,3 +1,3 @@
 # JavaScript_Practice
 
-Compilado de programas desenvolvidos nos cursos de JS
+Compilado de programas desenvolvidos em cursos de JS
